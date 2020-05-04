@@ -41,8 +41,8 @@ var populateDB = function() {
         id: "1",
         name: "John",
         dob: "08/06/1977",
-        gender: "Male",
-        designation: "Consultant"
+        gender: "Male1",
+        designation: "Consultant1"
     },
       {
         id: "2",
